@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ics3/static/css/main.8e49fec0.css",
+    "main.js": "/ics3/static/js/main.528048c0.js",
+    "static/media/tunetank.com_4043_summer-lofi_by_sfrecords.mp3": "/ics3/static/media/tunetank.com_4043_summer-lofi_by_sfrecords.514df2b574c2d250f9b1.mp3",
+    "static/media/tunetank.com_5415_late-night-latte_by_alex-gl.mp3": "/ics3/static/media/tunetank.com_5415_late-night-latte_by_alex-gl.771d8fb79ca0f02a536b.mp3",
+    "static/media/attach.png": "/ics3/static/media/attach.30930eaf56dcb510ca41.png",
+    "static/media/sett2.png": "/ics3/static/media/sett2.04ccfd38913f9a19a141.png",
+    "static/media/icon2.png": "/ics3/static/media/icon2.1cf130bec2f833ab1f93.png",
+    "static/media/comments.png": "/ics3/static/media/comments.01754b9b8a5020ec9000.png",
+    "index.html": "/ics3/index.html",
+    "main.8e49fec0.css.map": "/ics3/static/css/main.8e49fec0.css.map",
+    "main.528048c0.js.map": "/ics3/static/js/main.528048c0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8e49fec0.css",
+    "static/js/main.528048c0.js"
+  ]
+}
